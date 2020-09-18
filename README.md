@@ -3,10 +3,10 @@ Udemy course at https://www.youtube.com/watch?v=SvJFeKg5NLc demonstrating mern u
 ### Server set up
 * Create backend and frontend dirs
 * cd to backend and initialize backend - npm init -y
-* Install initial dependencies - npm i express body-parser cookie-parser mongoose morgan nodemon dotenv cors
+* Install initial dependencies - `npm i express body-parser cookie-parser mongoose morgan nodemon dotenv cors`
 * Create server.js
 * Add start script to package.json
-* Run server - npm start
+* Run server - `npm start`
 
 ### DB set up
 * Install mongodb (if not already installed locally) and start up.
@@ -19,10 +19,11 @@ Udemy course at https://www.youtube.com/watch?v=SvJFeKg5NLc demonstrating mern u
 * Create schema for User model.
 * Add  basic route and controller for signup (using the user model) and test api in Postman.
 
-### Signuo process
-* Install packeage for validation process - npm install express-validator jsonwebtoken express-jwt formidable lodash slugify string-strip-html
+### Signup process
+* Install packeage for validation process - `npm install express-validator jsonwebtoken express-jwt formidable lodash slugify string-strip-html`
 * Create methods on userSchema to hash and validate password
-* Generate unique name using shortid - npm install shortid
+* Generate unique name using shortid - `npm install shortid`
+* Test api response in Postman and check mongodb for new record.
 
 
 
