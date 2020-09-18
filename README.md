@@ -13,11 +13,14 @@ Udemy course at https://www.youtube.com/watch?v=SvJFeKg5NLc demonstrating mern u
 * Set env vars for local and cloud mongo db (ensure mongodb is installed and running
 * Connect to db via mongoose and test local and cloud connections
 
-## Process
+## Processes
 * Run through initial set up as per above.
 * Create basic route and controller and test.
 * Create schema for User model.
 * Add  basic route and controller for signup (using the user model) and test api in Postman.
+
+### Signuo process
+Install packeage for validation process - npm install express-validator jsonwebtoken express-jwt formidable lodash slugify string-strip-html
 
 
 
