@@ -14,6 +14,7 @@ Udemy course at https://www.youtube.com/watch?v=SvJFeKg5NLc demonstrating mern u
 * Connect to db via mongoose and test local and cloud connections
 
 ## Process
+* Run through initial set up as per above.
 * Create basic route and controller and test.
 * Create schema for User model.
 * Add  basic route and controller for signup (using the user model) and test api in Postman.
