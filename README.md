@@ -20,7 +20,10 @@ Udemy course at https://www.youtube.com/watch?v=SvJFeKg5NLc demonstrating mern u
 * Add  basic route and controller for signup (using the user model) and test api in Postman.
 
 ### Signuo process
-Install packeage for validation process - npm install express-validator jsonwebtoken express-jwt formidable lodash slugify string-strip-html
+* Install packeage for validation process - npm install express-validator jsonwebtoken express-jwt formidable lodash slugify string-strip-html
+* Create methods on userSchema to hash and validate password
+* Generate unique name using shortid - npm install shortid
+
 
 
 
